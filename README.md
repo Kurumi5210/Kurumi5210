@@ -7,3 +7,4 @@
 
 ### Current Work  
 - 📑 CS149
+- 📑 AICS
