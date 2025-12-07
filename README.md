@@ -6,5 +6,4 @@
 - 📫 How to reach me: JayChou1620@Gmail.com or ChenXiao241@mails.ucas.ac.cn
 
 ### Current Work  
-- 📑 CS149
-- 📑 AICS
+- 📑 vLLM-Ascend
